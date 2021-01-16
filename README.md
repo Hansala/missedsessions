@@ -1,11 +1,11 @@
-# Telegram bot menu
+# Missed Sessions
 
 Telegram bot with universal editable menu. With this program, you do not need to write code for the bot with the menu. Just run the bot and configure its menu via Telegram.
 
 ## Getting Started
 
 1. Create bot with official Telegram robot [@BotFather](http://t.me/BotFather)
-2. Set [TOKEN](https://github.com/zZoMROT/telegram-bot-menu/blob/master/init.js#L9) variable in init.js
+2. Set [TOKEN](https://github.com/bigbraincandase/missedsessions/blob/master/init.js#L9) variable in init.js
    ```
    var TOKEN = '<YOUR_TOKEN>';
    ```
