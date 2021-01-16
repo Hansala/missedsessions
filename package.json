@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/bigbraincandase/missedsessions/issues"
   },
-  "homepage": "https://github.com/candase/missedsessions#readme",
+  "homepage": "https://github.com/bigbraincandase/missedsessions#readme",
   "dependencies": {
     "node-emoji": "^1.8.1",
     "node-telegram-bot-api": "^0.30.0",
