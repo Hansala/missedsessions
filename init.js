@@ -6,14 +6,14 @@ var MODE = 0;
 		0 - default mode with menu
 		1 - edit mode with expand menu
 */
-var TOKEN = '1557356127:AAF14kcUsdJnlGqdcD5gvZnONv0SrlEVjMY';
+var TOKEN = '';
 var DELIMETER = ':::';
 var DATA_FOLDER = 'datac';
 
 var buttons = {};
 var menu = {};
 var menu_root;
-var admins = [1370991029];
+var admins = [];
 
 var proxy = {
 	'host': '',
