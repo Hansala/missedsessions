@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-menu",
+  "name": "missedsessions",
   "version": "1.0.1",
   "description": "",
   "main": "bot.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zZoMROT/telegram-bot-menu.git"
+    "url": "git+https://github.com/bigbraincandase/missedsessions.git"
   },
-  "author": "zzomrot",
+  "author": "bigbraincandase",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zZoMROT/telegram-bot-menu/issues"
+    "url": "https://github.com/bigbraincandase/missedsessions/issues"
   },
-  "homepage": "https://github.com/zZoMROT/telegram-bot-menu#readme",
+  "homepage": "https://github.com/candase/missedsessions#readme",
   "dependencies": {
     "node-emoji": "^1.8.1",
     "node-telegram-bot-api": "^0.30.0",
